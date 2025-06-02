@@ -5,7 +5,8 @@
 
 ## 🎮 Game Preview
 
-![GunslingerCreative1 ‐ Clipchamp ile yapıldı](https://github.com/user-attachments/assets/cf11ec56-087f-4fca-8c97-5f6f9a4d838b)
+![İsimsiz video ‐ Clipchamp ile yapıldı (3)](https://github.com/user-attachments/assets/9772d342-9b9e-4361-8160-3f6b282e67af)
+
 
 ## 🛠️ Technologies Used
 - C#
@@ -30,4 +31,4 @@
 
 - Project Link: https://github.com/Muhammetyasara/Mygarage
 
-
+Note: Prototype.
